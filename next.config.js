@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   typescript: {
-    ignoreBuildErrors
+    ignoreBuildErrors: true,
   },
   images: {
     domains: [ 'media.licdn.com', 'lh3.googleusercontent.com', 'yt3.ggpht.com'],
