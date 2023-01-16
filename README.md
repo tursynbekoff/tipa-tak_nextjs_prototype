@@ -5,6 +5,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 here is the [link](https://tipa-tak-nextjs-prototype.vercel.app/) to the deployed website on vercel
 
+
+https://user-images.githubusercontent.com/37927630/212738228-f85dc72f-6ec8-4802-a9f4-41a97cafc145.mp4
+
+
 ## Getting Started
 
 First, run the development server:
